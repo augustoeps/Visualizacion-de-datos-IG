@@ -29,8 +29,3 @@ Este proyecto utiliza **Three.js** para crear una visualización 3D interactiva 
 - **SITYCLETA-2018.csv**: Archivo con los datos de cada alquiler de bicicleta.
 - **script.js**: Contiene la lógica de carga de datos, procesamiento, mapeo de coordenadas y funciones de visualización en Three.js.
 
-## Instalación y Ejecución
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/nombre-repositorio.git
